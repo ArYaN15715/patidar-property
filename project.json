@@ -1,0 +1,23 @@
+{
+  "overview": "High-conversion real estate website for Patidar Property Solution, a local property broker in Kudasan, Gandhinagar. The site is built for fast decisions — mobile-first, WhatsApp-first, with browsable property listings, detailed property modals, and trust-building sections.",
+  "features": [
+    "Property listings grid (rent, buy, commercial) with filter bar",
+    "Clickable property cards with full detail modal (photos, specs, amenities, CTAs)",
+    "Hero with WhatsApp and Call CTAs, trust badges",
+    "Sticky floating WhatsApp and Call buttons",
+    "Why Choose Us, How We Work, Testimonials sections",
+    "Mobile-first responsive design with sticky header",
+    "Hardcoded demo listings — no backend required"
+  ],
+  "category": "real-estate",
+  "tags": [
+    "real-estate",
+    "property",
+    "gandhinagar",
+    "whatsapp",
+    "mobile-first",
+    "demo",
+    "broker"
+  ],
+  "last_updated": "2026-04-28T08:06:16.481Z"
+}
